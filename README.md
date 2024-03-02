@@ -1,7 +1,7 @@
 # basic-discord-nuker
 basic discord nuke bot which creates channels
 
-#How To Run
+# How To Run
 run setup.bat, if you dont trust it open it and pip install modules manually
 
 # Changing The Code
